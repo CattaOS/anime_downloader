@@ -1,0 +1,14 @@
+[
+    {
+        "series_name": "This is an example on how to add to new series to download, DO NOT REMOVE",
+        "season_num": "01",
+        "site_name": "animeworld",
+        "download_url": ""
+    },
+        {
+        "series_name": "Uma Musume",
+        "season_num": "01",
+        "site_name": "animeworld",
+        "download_url": "https://www.animeworld.ac/play/uma-musume-pretty-derby.wtcq8/Qhc90"
+    }
+]
